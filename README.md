@@ -1,0 +1,2 @@
+# image-gallery-vanillajs
+image gallery with keyboard shortcuts using HTML, CSS and vanila javascript  witch we have gallerry showing of the images and when we click on each of them we are going to see that image in larg scale and in preview screen and have 3 buttons of close, next and previous buttons with infinity loop of going to next and previous one and has keyboard shortcuts to controll the webpage as we want
